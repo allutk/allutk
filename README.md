@@ -9,7 +9,7 @@ I enjoy working with modern backend frameworks and sometimes dabble in frontend 
 - **Languages:** Python, TypeScript
 - **Backend:** Django, FastAPI, aiohttp, Flask
 - **Frontend:** React, React Router
-- **Other:** Docker, MySQL, Redis, GitHub Actions (CI/CD)
+- **Other:** Docker, PostgreSQL, Redis, GitHub Actions (CI/CD)
 
 ---
 
